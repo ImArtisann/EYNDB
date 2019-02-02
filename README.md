@@ -1,6 +1,7 @@
 # EYNDB
 ---
 **EYNDB** stands for everything you need discord bot. A discord bot that helps with managing a server keeping users entertained and moderation.
+***
 ---
 # Invite link
 ---
